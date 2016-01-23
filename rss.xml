@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MattBurkett]]></title>
+        <description><![CDATA[MattBurkett]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Jan 2016 23:13:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shotgun Update!]]></title>
+            <description><![CDATA[<article><h1>Shotgun Update!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fce7d9246bcd5db1090e0d8bcb24fe77cf8f225f.jpg"></article>]]></description>
+            <link>undefinedshotgun-update/index.html</link>
+            <guid isPermaLink="false">c9b8dfa2-dc2a-4a60-bb58-13af164bdac9</guid>
+            <pubDate>Sat, 23 Jan 2016 23:13:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
